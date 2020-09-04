@@ -1,11 +1,11 @@
 import React from 'react'
 
-function header() {
+function sidebar() {
     return (
         <div>
-            this is header
+            this is sidebar
         </div>
     )
 }
 
-export default header
+export default sidebar
